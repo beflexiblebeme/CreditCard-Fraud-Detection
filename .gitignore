@@ -11,3 +11,6 @@ __pycache__/
 
 # Ignore VSCode settings
 .vscode/
+
+#data files
+data/*
